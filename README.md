@@ -1,4 +1,5 @@
 # FitFit
-Aplicacion web de vida sana y fitness
+Aplicacion web pensada para la obtencion de recetas.
 
-Esta aplicacion esta pensada para, poder ayudar a las personas a poder llevar una vida sana, sobre todo con respecto a su alimentacion 
+Esta aplicacion esta pensada para poder ayudar a las personas que no saben que cocinar.
+mediante el uso de una api externa se obtienen todos los recursos de informacion relacionados con cada una de las recetas.
