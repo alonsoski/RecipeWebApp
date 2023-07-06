@@ -1,0 +1,1 @@
+['Yeast', 'Water', 'Water', 'Sugar', 'Salt', 'Eggs', 'Shortening', 'Flour', 'Canola Oil', 'Milk', 'Sugar', 'Vanilla', 'Boiling Water', 'Butter']
